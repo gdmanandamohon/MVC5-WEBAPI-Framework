@@ -1,0 +1,11 @@
+/packages
+/Core/bin
+/Core/obj
+/UnitTest.Tests/bin
+/UnitTest.Tests/obj
+/WebAPI/bin
+/WebAPI/obj
+/WebApplication/bin
+/WebApplication/obj
+/WebClient/bin
+/WebClient/obj
